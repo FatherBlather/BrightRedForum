@@ -9,7 +9,7 @@
 <html> 
 <header> 
 <link href="styles.css" rel="stylesheet" type="text/css" media="all">
-<title>Richies Image Board</title>
+<title>Image Board</title>
 
  <div class="header">
   <a href="#default" class="logo">☭ RED ARMY ONLINE ☭</a>
